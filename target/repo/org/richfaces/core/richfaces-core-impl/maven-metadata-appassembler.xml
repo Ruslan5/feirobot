@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.richfaces.core</groupId>
+  <artifactId>richfaces-core-impl</artifactId>
+  <versioning>
+    <release>4.2.2.Final</release>
+    <versions>
+      <version>4.2.2.Final</version>
+    </versions>
+    <lastUpdated>20190510173620</lastUpdated>
+  </versioning>
+</metadata>
