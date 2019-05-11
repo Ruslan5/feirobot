@@ -1,2 +1,0 @@
-Запуск/остановка приложения на Heroku
-heroku ps:scale worker=1/0
